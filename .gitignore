@@ -1,0 +1,29 @@
+# Visual Studio
+.vs/
+*.user
+
+# Build folders
+x64/
+Debug/
+Release/
+
+# Database
+database/*.db
+*.db
+
+# Models
+models/*.yml
+*.yml
+
+# Training images
+images/
+
+# Exports
+exports/
+attendance.csv
+
+# Build files
+*.obj
+*.pdb
+*.ilk
+*.exe

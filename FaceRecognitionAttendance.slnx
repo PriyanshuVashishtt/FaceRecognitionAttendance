@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="FaceRecognitionAttendance.vcxproj" Id="bef11609-4c12-4fef-b940-0959fdfd3ca7" />
+</Solution>
